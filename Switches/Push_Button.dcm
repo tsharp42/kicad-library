@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Omron-B3W-900x-x1x
+D Illuminated Tactile Switch
+F https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3w-9.pdf
+$ENDCMP
+#
+#End Doc Library

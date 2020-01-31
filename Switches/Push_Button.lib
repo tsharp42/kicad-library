@@ -1,0 +1,29 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# Omron-B3W-900x-x1x
+#
+DEF Omron-B3W-900x-x1x SW 0 40 Y Y 1 F N
+F0 "SW" 0 400 50 H V C CNN
+F1 "Omron-B3W-900x-x1x" 0 -350 50 H V C CNN
+F2 "Push_Button:Omron-B3W-900x-x1x" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+S -250 -250 250 100 0 1 0 N
+P 2 0 1 0 -250 0 -50 0 N
+P 2 0 1 0 -50 0 50 50 N
+P 2 0 1 0 0 -150 0 -200 N
+P 2 0 1 0 0 -150 0 -100 N
+P 2 0 1 0 0 -150 250 -150 N
+P 2 0 1 0 150 0 50 0 N
+P 2 0 1 0 250 0 150 0 N
+P 3 0 1 0 -250 -150 -50 -150 -50 -100 N
+P 5 0 1 0 -50 -200 -50 -150 -50 -100 0 -150 -50 -200 N
+X SW1 1 -350 0 100 R 50 50 1 1 P
+X SW2 3 350 0 100 L 50 50 1 1 P
+X A 5 -350 -150 100 R 50 50 1 1 P
+X K 6 350 -150 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library
