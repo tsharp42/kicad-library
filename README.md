@@ -11,3 +11,8 @@ My Personal KiCad Library
 
  - **OLED**
 	 - Generic 0.96" i2C OLED 128x64 Display Module
+	 
+# Connectors
+
+ - **Neutrik**
+	 - NC4MAH 4 Pin Male Panel XLR (Plastic)
